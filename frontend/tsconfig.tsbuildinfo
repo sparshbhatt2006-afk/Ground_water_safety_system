@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/dashboard.tsx","./src/components/mapview.tsx","./src/components/parameterchart.tsx","./src/components/predictionform.tsx","./src/components/risktable.tsx","./src/components/sidebar.tsx","./src/components/webhookpanel.tsx","./src/services/api.ts"],"errors":true,"version":"6.0.3"}

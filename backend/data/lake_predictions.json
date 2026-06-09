@@ -1,0 +1,7091 @@
+[
+  {
+    "lake_name": "#NAME?",
+    "latitude": 12.866822,
+    "longitude": 77.570268,
+    "year": 2025,
+    "month": "February",
+    "ph": 8.4,
+    "bod": 18.0,
+    "cod": 155.0,
+    "tds": 828.0,
+    "total_coliform": 17000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9884,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0116,
+      "High": 0.9884
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Abbigere Lake",
+    "latitude": 13.0791175,
+    "longitude": 77.52872073,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 6.0,
+    "cod": 76.0,
+    "tds": 428.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6958,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3042,
+      "High": 0.6958
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Agaram Lake",
+    "latitude": 12.921,
+    "longitude": 77.641,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.9,
+    "bod": 4.0,
+    "cod": 56.0,
+    "tds": 612.0,
+    "total_coliform": 5400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8889,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1111,
+      "High": 0.8889
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Akshyanagara Lake, Akshyanagara\r\nWest, Bengaluru",
+    "latitude": 13.073957,
+    "longitude": 77.54661,
+    "year": 2025,
+    "month": "May",
+    "ph": 7.5,
+    "bod": 14.0,
+    "cod": 136.0,
+    "tds": 894.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9919,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0081,
+      "High": 0.9919
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Akshyanagara Lake, Akshyanagara West,\r\nBengaluru",
+    "latitude": 13.02981,
+    "longitude": 77.53203,
+    "year": 2025,
+    "month": "July",
+    "ph": 7.3,
+    "bod": 34.0,
+    "cod": 168.0,
+    "tds": 1220.0,
+    "total_coliform": 1700.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9996,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0004,
+      "High": 0.9996
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Akshyanagara Lake, Akshyanagara West, Bengaluru",
+    "latitude": 12.87179,
+    "longitude": 77.614335,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.8,
+    "bod": 6.0,
+    "cod": 60.0,
+    "tds": 214.0,
+    "total_coliform": 2200.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.7089,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.7089,
+      "High": 0.2911
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Allalasandra Lake",
+    "latitude": 13.09078569,
+    "longitude": 77.58580537,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 25.0,
+    "cod": 168.0,
+    "tds": 688.0,
+    "total_coliform": 13000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9725,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0275,
+      "High": 0.9725
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Alur Lake",
+    "latitude": 13.09743325,
+    "longitude": 77.45848496,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.0,
+    "bod": 4.0,
+    "cod": 52.0,
+    "tds": 528.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8045,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1955,
+      "High": 0.8045
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Amruthahalli Lake",
+    "latitude": 13.06138758,
+    "longitude": 77.5987903,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.6,
+    "bod": 12.0,
+    "cod": 152.0,
+    "tds": 832.0,
+    "total_coliform": 11000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.988,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.012,
+      "High": 0.988
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Anchepalya Lake",
+    "latitude": 13.0012,
+    "longitude": 77.4842,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.7,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 566.0,
+    "total_coliform": 9400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8436,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1564,
+      "High": 0.8436
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Andhrahalli Lake",
+    "latitude": 13.01026314,
+    "longitude": 77.48646759,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.8,
+    "bod": 63.0,
+    "cod": 312.0,
+    "tds": 376.0,
+    "total_coliform": 7900.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9226,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0774,
+      "High": 0.9226
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Andrahalli Lake",
+    "latitude": 13.001839,
+    "longitude": 77.593571,
+    "year": 2023,
+    "month": "October",
+    "ph": 6.7,
+    "bod": 39.0,
+    "cod": 200.0,
+    "tds": 816.0,
+    "total_coliform": 350000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9927,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0073,
+      "High": 0.9927
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Anekal Doddakere Tank",
+    "latitude": 12.87466479,
+    "longitude": 77.78340625,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.8,
+    "bod": 28.0,
+    "cod": 196.0,
+    "tds": 1012.0,
+    "total_coliform": 13000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.998,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.002,
+      "High": 0.998
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Anja-Pura Lake ( Avala Halli Lake) Anja-Pu",
+    "latitude": 13.14128,
+    "longitude": 77.570193,
+    "year": 2025,
+    "month": "January",
+    "ph": 7.4,
+    "bod": 5.0,
+    "cod": 46.0,
+    "tds": 272.0,
+    "total_coliform": 920.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6337,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6337,
+      "High": 0.3663
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Anja-Pura Lake ( Avala Halli Lake) Anja-Pura,Bengaluru",
+    "latitude": 13.099226,
+    "longitude": 77.354692,
+    "year": 2025,
+    "month": "February",
+    "ph": 7.5,
+    "bod": 5.0,
+    "cod": 71.0,
+    "tds": 440.0,
+    "total_coliform": 1100.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7046,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2954,
+      "High": 0.7046
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Anjanapura Lake ( Avala Halli Lake)\r\nAnjanapura,Bengaluru",
+    "latitude": 13.080847,
+    "longitude": 77.368571,
+    "year": 2025,
+    "month": "July",
+    "ph": 7.3,
+    "bod": 13.0,
+    "cod": 128.0,
+    "tds": 380.0,
+    "total_coliform": 22000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6969,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3031,
+      "High": 0.6969
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Anjanapura Lake ( Avala Halli Lake) Anjanapura,Bengaluru",
+    "latitude": 12.86550272,
+    "longitude": 77.56632056,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.7,
+    "bod": 6.0,
+    "cod": 60.0,
+    "tds": 212.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.7117,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.7117,
+      "High": 0.2883
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Arakere Lake",
+    "latitude": 12.8765,
+    "longitude": 77.5991,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.8,
+    "bod": 5.0,
+    "cod": 56.0,
+    "tds": 220.0,
+    "total_coliform": 9400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.7067,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.7067,
+      "High": 0.2933
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "B- Narayannapura Lake-2",
+    "latitude": 12.996508,
+    "longitude": 77.6827584,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.9,
+    "bod": 27.0,
+    "cod": 184.0,
+    "tds": 660.0,
+    "total_coliform": 9400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9698,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0302,
+      "High": 0.9698
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Basava-Pura Lake",
+    "latitude": 13.147863,
+    "longitude": 77.331764,
+    "year": 2025,
+    "month": "February",
+    "ph": 8.3,
+    "bod": 4.0,
+    "cod": 58.0,
+    "tds": 578.0,
+    "total_coliform": 1700.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.861,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.139,
+      "High": 0.861
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Basava-Pura Lake Ayyappa -Gr Main Road",
+    "latitude": 12.955756,
+    "longitude": 77.331481,
+    "year": 2025,
+    "month": "January",
+    "ph": 7.2,
+    "bod": 4.0,
+    "cod": 46.0,
+    "tds": 378.0,
+    "total_coliform": 5400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5626,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4374,
+      "High": 0.5626
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Basava-Pura Lake Ayyappa -Gr Main Road , K. R. Puram , Bengaluru",
+    "latitude": 12.93254,
+    "longitude": 77.35365,
+    "year": 2025,
+    "month": "February",
+    "ph": 8.3,
+    "bod": 4.0,
+    "cod": 39.0,
+    "tds": 382.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5557,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4443,
+      "High": 0.5557
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Basavanapura Lake",
+    "latitude": 12.84453538,
+    "longitude": 77.58927218,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.8,
+    "bod": 6.0,
+    "cod": 60.0,
+    "tds": 224.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6929,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6929,
+      "High": 0.3071
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Basavanapura Lake Ayyappa\r\nNagr Main Road , K. R. Puram ,\r\nBengaluru",
+    "latitude": 12.987,
+    "longitude": 77.737,
+    "year": 2023,
+    "month": "August",
+    "ph": 6.5,
+    "bod": 6.0,
+    "cod": 56.0,
+    "tds": 720.0,
+    "total_coliform": 92000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9506,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0494,
+      "High": 0.9506
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Basavanapura Lake Ayyappa\r\nNagr Main Road , K.R.Puram,Bengaluru",
+    "latitude": 12.974262,
+    "longitude": 77.550916,
+    "year": 2023,
+    "month": "December",
+    "ph": 7.2,
+    "bod": 7.0,
+    "cod": 60.0,
+    "tds": 316.0,
+    "total_coliform": 5400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5264,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5264,
+      "High": 0.4736
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Basavanapura Lake Ayyappa Nagr Main Road\r\n, K. R. Puram , Bengaluru",
+    "latitude": 12.974841,
+    "longitude": 77.335092,
+    "year": 2025,
+    "month": "June",
+    "ph": 7.5,
+    "bod": 8.0,
+    "cod": 80.0,
+    "tds": 326.0,
+    "total_coliform": 2200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5219,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4781,
+      "High": 0.5219
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Basavanapura Lake Ayyappa Nagr Main Road ,\r\nK. R. Puram , Bengaluru",
+    "latitude": 13.05073,
+    "longitude": 77.41767,
+    "year": 2024,
+    "month": "June",
+    "ph": 6.5,
+    "bod": 25.0,
+    "cod": 202.0,
+    "tds": 568.0,
+    "total_coliform": 460000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9453,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0547,
+      "High": 0.9453
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Basavanapura Lake Ayyappa Nagr Main Road , K.\r\nR. Puram , Bengaluru",
+    "latitude": 13.163732,
+    "longitude": 77.594021,
+    "year": 2024,
+    "month": "December",
+    "ph": 7.6,
+    "bod": 6.0,
+    "cod": 59.0,
+    "tds": 314.0,
+    "total_coliform": 540.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5367,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5367,
+      "High": 0.4633
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Basavanapura Lake Ayyappa Nagr Main Road , K. R. Puram",
+    "latitude": 13.0099972,
+    "longitude": 77.71289806,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 26.0,
+    "cod": 152.0,
+    "tds": 612.0,
+    "total_coliform": 13000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9483,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0517,
+      "High": 0.9483
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Basavanapura Lake Ayyappa Nagr Main Road , K. R. Puram ,",
+    "latitude": 13.013439,
+    "longitude": 77.36805,
+    "year": 2023,
+    "month": "September",
+    "ph": 6.5,
+    "bod": 4.0,
+    "cod": 41.0,
+    "tds": 302.0,
+    "total_coliform": 92000.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5847,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5847,
+      "High": 0.4153
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Basavanapura Lake Ayyappa Nagr Main Road , K. R. Puram , B'Lore",
+    "latitude": 12.939518,
+    "longitude": 77.584616,
+    "year": 2024,
+    "month": "March",
+    "ph": 7.9,
+    "bod": 9.0,
+    "cod": 80.0,
+    "tds": 368.0,
+    "total_coliform": 24000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6022,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3978,
+      "High": 0.6022
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Basavanapura Lake Ayyappa Nagr Main Road , K. R. Puram , Bengaluru",
+    "latitude": 12.883741,
+    "longitude": 77.340526,
+    "year": 2025,
+    "month": "October",
+    "ph": 8.2,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 260.0,
+    "total_coliform": 2100.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6586,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6586,
+      "High": 0.3414
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Basavanapura Lake Ayyappa Nagr Main Road, K.\r\nR. Puram , Bengaluru",
+    "latitude": 13.059672,
+    "longitude": 77.489498,
+    "year": 2024,
+    "month": "November",
+    "ph": 7.4,
+    "bod": 5.0,
+    "cod": 48.0,
+    "tds": 342.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5007,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5007,
+      "High": 0.4993
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Basspura Lake, Aishwarya Crystal\r\nLayout, Begur, Bengaluru",
+    "latitude": 12.859798,
+    "longitude": 77.427079,
+    "year": 2025,
+    "month": "July",
+    "ph": 7.6,
+    "bod": 5.0,
+    "cod": 52.0,
+    "tds": 552.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8346,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1654,
+      "High": 0.8346
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Basspura Lake, Aishwarya Crystal Layout, Begur,",
+    "latitude": 12.86902079,
+    "longitude": 77.64344117,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.2,
+    "bod": 5.0,
+    "cod": 56.0,
+    "tds": 562.0,
+    "total_coliform": 1500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8463,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1537,
+      "High": 0.8463
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Basspura Lake, Aishwarya Crystal Layout, Begur, Bengaluru",
+    "latitude": 13.138721,
+    "longitude": 77.338652,
+    "year": 2025,
+    "month": "October",
+    "ph": 7.0,
+    "bod": 7.0,
+    "cod": 76.0,
+    "tds": 472.0,
+    "total_coliform": 2100.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7644,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2356,
+      "High": 0.7644
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Begur Tank",
+    "latitude": 12.8814,
+    "longitude": 77.6325,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.1,
+    "bod": 6.0,
+    "cod": 60.0,
+    "tds": 224.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6941,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6941,
+      "High": 0.3059
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Bellandur Lake",
+    "latitude": 13.0189,
+    "longitude": 77.4912,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.4,
+    "bod": 30.0,
+    "cod": 232.0,
+    "tds": 634.0,
+    "total_coliform": 1500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9724,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0276,
+      "High": 0.9724
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Benniga-Halli Lake",
+    "latitude": 13.093255,
+    "longitude": 77.311008,
+    "year": 2025,
+    "month": "February",
+    "ph": 8.4,
+    "bod": 7.0,
+    "cod": 98.0,
+    "tds": 536.0,
+    "total_coliform": 4900.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8532,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1468,
+      "High": 0.8532
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Benniganahalli Lake",
+    "latitude": 12.99772381,
+    "longitude": 77.66545556,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.1,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 276.0,
+    "total_coliform": 1700.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6258,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6258,
+      "High": 0.3742
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Bhattarahalli Lake",
+    "latitude": 13.02479566,
+    "longitude": 77.7086534,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.3,
+    "bod": 21.0,
+    "cod": 140.0,
+    "tds": 520.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8882,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1118,
+      "High": 0.8882
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Bhoganhalli Lake, Bhoganhalli,,\r\nBengaluru",
+    "latitude": 13.095453,
+    "longitude": 77.45898,
+    "year": 2025,
+    "month": "July",
+    "ph": 8.5,
+    "bod": 7.0,
+    "cod": 72.0,
+    "tds": 672.0,
+    "total_coliform": 6300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9343,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0657,
+      "High": 0.9343
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Bhoganhalli Lake, Bhoganhalli,, Bengaluru",
+    "latitude": 12.92297445,
+    "longitude": 77.69935186,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.6,
+    "bod": 6.0,
+    "cod": 68.0,
+    "tds": 466.0,
+    "total_coliform": 2200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7432,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2568,
+      "High": 0.7432
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Byrasandra Tank",
+    "latitude": 13.0064,
+    "longitude": 77.5755,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.8,
+    "bod": 7.0,
+    "cod": 80.0,
+    "tds": 326.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5173,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4827,
+      "High": 0.5173
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Byrasandra Upper Lake,Bengaluru",
+    "latitude": 12.93065731,
+    "longitude": 77.59565712,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.5,
+    "bod": 5.0,
+    "cod": 64.0,
+    "tds": 312.0,
+    "total_coliform": 1100.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5365,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5365,
+      "High": 0.4635
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Chandapura Lake",
+    "latitude": 12.80573568,
+    "longitude": 77.70537996,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.9,
+    "bod": 27.0,
+    "cod": 192.0,
+    "tds": 842.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9926,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0074,
+      "High": 0.9926
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Cheemasandra",
+    "latitude": 13.06569,
+    "longitude": 77.723786,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.1,
+    "bod": 5.0,
+    "cod": 48.0,
+    "tds": 266.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6447,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6447,
+      "High": 0.3553
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Chelekere Lake",
+    "latitude": 13.02641201,
+    "longitude": 77.6449817,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.9,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 346.0,
+    "total_coliform": 7900.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5005,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4995,
+      "High": 0.5005
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Chikkaba-Vara Lake",
+    "latitude": 12.896644,
+    "longitude": 77.406844,
+    "year": 2025,
+    "month": "February",
+    "ph": 7.0,
+    "bod": 5.0,
+    "cod": 49.0,
+    "tds": 518.0,
+    "total_coliform": 17000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7948,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2052,
+      "High": 0.7948
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Chikkabanavara Lake",
+    "latitude": 13.08356016,
+    "longitude": 77.50682992,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.6,
+    "bod": 5.0,
+    "cod": 60.0,
+    "tds": 670.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9297,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0703,
+      "High": 0.9297
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Chikkagubi Lake",
+    "latitude": 13.07683052,
+    "longitude": 77.673996,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.2,
+    "bod": 8.0,
+    "cod": 92.0,
+    "tds": 1490.0,
+    "total_coliform": 5800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9999,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0001,
+      "High": 0.9999
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Chin-Kurchi Kere",
+    "latitude": 13.044315,
+    "longitude": 77.456772,
+    "year": 2025,
+    "month": "February",
+    "ph": 7.7,
+    "bod": 4.0,
+    "cod": 40.0,
+    "tds": 322.0,
+    "total_coliform": 7900.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5543,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5543,
+      "High": 0.4457
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Chin-Ppa-Halli Lake",
+    "latitude": 13.015719,
+    "longitude": 77.328241,
+    "year": 2025,
+    "month": "February",
+    "ph": 8.3,
+    "bod": 4.0,
+    "cod": 59.0,
+    "tds": 604.0,
+    "total_coliform": 13000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8837,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1163,
+      "High": 0.8837
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Chinnakurchi Kere",
+    "latitude": 12.82129367,
+    "longitude": 77.46615876,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 4.0,
+    "cod": 52.0,
+    "tds": 330.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5196,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5196,
+      "High": 0.4804
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Chinnappanahalli Lake",
+    "latitude": 12.96611529,
+    "longitude": 77.70675679,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.3,
+    "bod": 18.0,
+    "cod": 168.0,
+    "tds": 834.0,
+    "total_coliform": 11000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9899,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0101,
+      "High": 0.9899
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Chunchaghatta Lake, Chunchaghatta Phase 7, J P",
+    "latitude": 12.88841051,
+    "longitude": 77.57527312,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.9,
+    "bod": 6.0,
+    "cod": 64.0,
+    "tds": 256.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.634,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.634,
+      "High": 0.366
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Chunchaghatta Lake, Chunchaghatta Phase 7, J P Nagar, Bengaluru",
+    "latitude": 13.000576,
+    "longitude": 77.353576,
+    "year": 2025,
+    "month": "October",
+    "ph": 7.7,
+    "bod": 5.0,
+    "cod": 48.0,
+    "tds": 454.0,
+    "total_coliform": 1700.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6999,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3001,
+      "High": 0.6999
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Dasarahalli Tank",
+    "latitude": 13.0232,
+    "longitude": 77.7288,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 21.0,
+    "cod": 132.0,
+    "tds": 280.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5503,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4497,
+      "High": 0.5503
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Devarabeesa-Halli Lake",
+    "latitude": 12.879358,
+    "longitude": 77.349862,
+    "year": 2025,
+    "month": "February",
+    "ph": 8.0,
+    "bod": 4.0,
+    "cod": 168.0,
+    "tds": 1028.0,
+    "total_coliform": 2100.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9972,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0028,
+      "High": 0.9972
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Devarabeesanahalli Lake",
+    "latitude": 12.9231047,
+    "longitude": 77.68715487,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 7.0,
+    "cod": 76.0,
+    "tds": 402.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6544,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3456,
+      "High": 0.6544
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Devarabesanahalli Lake",
+    "latitude": 12.89808367,
+    "longitude": 77.5543472,
+    "year": 2023,
+    "month": "September",
+    "ph": 6.7,
+    "bod": 5.0,
+    "cod": 43.0,
+    "tds": 160.0,
+    "total_coliform": 9200.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.8033,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.8033,
+      "High": 0.1967
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Devarakere Tank",
+    "latitude": 12.89808367,
+    "longitude": 77.5543472,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.5,
+    "bod": 5.0,
+    "cod": 52.0,
+    "tds": 272.0,
+    "total_coliform": 9400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6222,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6222,
+      "High": 0.3778
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Devarayasamudra Lake",
+    "latitude": 12.91685922,
+    "longitude": 77.48789417,
+    "year": 2023,
+    "month": "August",
+    "ph": 7.4,
+    "bod": 7.0,
+    "cod": 72.0,
+    "tds": 320.0,
+    "total_coliform": 35000.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5032,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5032,
+      "High": 0.4968
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Devasandra Lake",
+    "latitude": 13.00543793,
+    "longitude": 77.69382235,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.3,
+    "bod": 8.0,
+    "cod": 88.0,
+    "tds": 300.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5158,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5158,
+      "High": 0.4842
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Dhorekere Tank",
+    "latitude": 12.93017436,
+    "longitude": 77.494945,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.7,
+    "bod": 6.0,
+    "cod": 60.0,
+    "tds": 312.0,
+    "total_coliform": 9200.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.535,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.535,
+      "High": 0.465
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Doddabidarakallu Lake",
+    "latitude": 13.04339075,
+    "longitude": 77.49562264,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.6,
+    "bod": 5.0,
+    "cod": 56.0,
+    "tds": 696.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9404,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0596,
+      "High": 0.9404
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Doddagubbi Lake",
+    "latitude": 13.0744063,
+    "longitude": 77.67245104,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.2,
+    "bod": 16.0,
+    "cod": 120.0,
+    "tds": 2172.0,
+    "total_coliform": 6300.0,
+    "ml_risk": "High",
+    "ml_confidence": 1.0,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0,
+      "High": 1.0
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Doddakallasandra Lake,Bengalur",
+    "latitude": 13.0189,
+    "longitude": 77.3444,
+    "year": 2023,
+    "month": "August",
+    "ph": 6.9,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 286.0,
+    "total_coliform": 16000.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6121,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6121,
+      "High": 0.3879
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Doddakallasandra Lake,Bengaluru",
+    "latitude": 12.88228955,
+    "longitude": 77.56127506,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 6.0,
+    "cod": 60.0,
+    "tds": 254.0,
+    "total_coliform": 5400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.643,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.643,
+      "High": 0.357
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Doddakammanahalli Lake, Doddakammanahalli Phase2,",
+    "latitude": 12.85555251,
+    "longitude": 77.60368484,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.6,
+    "bod": 5.0,
+    "cod": 52.0,
+    "tds": 212.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.7229,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.7229,
+      "High": 0.2771
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Doddakammanahalli Lake, Doddakammanahalli Phase2, Tejaswini",
+    "latitude": 13.123415,
+    "longitude": 77.596664,
+    "year": 2025,
+    "month": "October",
+    "ph": 7.0,
+    "bod": 4.0,
+    "cod": 40.0,
+    "tds": 720.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9445,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0555,
+      "High": 0.9445
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Doddakammanahalli Lake, Doddakammanahalli Phase2, Tejaswini Nagar",
+    "latitude": 13.098561,
+    "longitude": 77.468531,
+    "year": 2025,
+    "month": "September",
+    "ph": 6.6,
+    "bod": 6.0,
+    "cod": 56.0,
+    "tds": 532.0,
+    "total_coliform": 1700.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8205,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1795,
+      "High": 0.8205
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Doddakannehalli Lake",
+    "latitude": 12.91183624,
+    "longitude": 77.6928301,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.0,
+    "bod": 5.0,
+    "cod": 48.0,
+    "tds": 564.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8431,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1569,
+      "High": 0.8431
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Doddanekkundi Lake",
+    "latitude": 13.0062,
+    "longitude": 77.6811,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 6.0,
+    "cod": 56.0,
+    "tds": 292.0,
+    "total_coliform": 170.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5803,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5803,
+      "High": 0.4197
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Doddathogur Lake , Doddathoguru\r\nVill,Bengaluru",
+    "latitude": 12.955342,
+    "longitude": 77.543927,
+    "year": 2025,
+    "month": "July",
+    "ph": 7.4,
+    "bod": 10.0,
+    "cod": 102.0,
+    "tds": 1020.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9961,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0039,
+      "High": 0.9961
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Doddathogur Lake , Doddathoguru Vill, Bengaluru",
+    "latitude": 12.948314,
+    "longitude": 77.515686,
+    "year": 2025,
+    "month": "March",
+    "ph": 7.8,
+    "bod": 8.0,
+    "cod": 98.0,
+    "tds": 468.0,
+    "total_coliform": 54000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.78,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.22,
+      "High": 0.78
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Doddathogur Lake , Doddathoguru Vill,Bengaluru",
+    "latitude": 12.85689657,
+    "longitude": 77.65979422,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.8,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 452.0,
+    "total_coliform": 5400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6935,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3065,
+      "High": 0.6935
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Gangashetty Lake",
+    "latitude": 13.01873035,
+    "longitude": 77.69881133,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.1,
+    "bod": 22.0,
+    "cod": 144.0,
+    "tds": 506.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8813,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1187,
+      "High": 0.8813
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Gangonda-Halli Lake",
+    "latitude": 13.010091,
+    "longitude": 77.359334,
+    "year": 2025,
+    "month": "February",
+    "ph": 7.7,
+    "bod": 11.0,
+    "cod": 120.0,
+    "tds": 1370.0,
+    "total_coliform": 940.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9998,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0002,
+      "High": 0.9998
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Gangondanahalli Lake",
+    "latitude": 12.99954081,
+    "longitude": 77.4646815,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 9.0,
+    "cod": 96.0,
+    "tds": 664.0,
+    "total_coliform": 13000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9413,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0587,
+      "High": 0.9413
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Garudacharpalya Lake-2",
+    "latitude": 12.990651,
+    "longitude": 77.69604,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.1,
+    "bod": 25.0,
+    "cod": 168.0,
+    "tds": 710.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9766,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0234,
+      "High": 0.9766
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Garudacharpalya Tank",
+    "latitude": 12.99262062,
+    "longitude": 77.69630153,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 36.0,
+    "cod": 196.0,
+    "tds": 732.0,
+    "total_coliform": 12000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9852,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0148,
+      "High": 0.9852
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Gottigere Lake",
+    "latitude": 12.8552,
+    "longitude": 77.5878,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.7,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 240.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6908,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6908,
+      "High": 0.3092
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Gubbalal Lake",
+    "latitude": 12.88094395,
+    "longitude": 77.54067908,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.6,
+    "bod": 5.0,
+    "cod": 48.0,
+    "tds": 228.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.7023,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.7023,
+      "High": 0.2977
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Halnayakanahalli Lake",
+    "latitude": 12.89981,
+    "longitude": 77.691348,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.5,
+    "bod": 29.0,
+    "cod": 188.0,
+    "tds": 664.0,
+    "total_coliform": 2200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9722,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0278,
+      "High": 0.9722
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Hanchanal Lake ,Hanchanal Vill,Bengaluru",
+    "latitude": 12.89926437,
+    "longitude": 77.56547215,
+    "year": 2023,
+    "month": "August",
+    "ph": 6.9,
+    "bod": 3.9,
+    "cod": 60.0,
+    "tds": 760.0,
+    "total_coliform": 3200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9626,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0374,
+      "High": 0.9626
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Haralur Lake",
+    "latitude": 12.89829,
+    "longitude": 77.66142,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.3,
+    "bod": 26.0,
+    "cod": 188.0,
+    "tds": 632.0,
+    "total_coliform": 110000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9629,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0371,
+      "High": 0.9629
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Hebbal Lake",
+    "latitude": 13.04697661,
+    "longitude": 77.58600905,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.8,
+    "bod": 19.0,
+    "cod": 128.0,
+    "tds": 330.0,
+    "total_coliform": 12000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6316,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3684,
+      "High": 0.6316
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Herohalli Lake",
+    "latitude": 13.043685,
+    "longitude": 77.551256,
+    "year": 2023,
+    "month": "October",
+    "ph": 7.0,
+    "bod": 5.0,
+    "cod": 48.0,
+    "tds": 290.0,
+    "total_coliform": 92000.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5967,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5967,
+      "High": 0.4033
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Herohalli Tank",
+    "latitude": 13.1368,
+    "longitude": 77.4851,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.5,
+    "bod": 5.0,
+    "cod": 60.0,
+    "tds": 302.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5563,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5563,
+      "High": 0.4437
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Hesaraghatta Lake",
+    "latitude": 13.0415,
+    "longitude": 77.6152,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.2,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 406.0,
+    "total_coliform": 2200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6125,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3875,
+      "High": 0.6125
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Hoodi (Rajapalya Lake) Itpl Main\r\nRoad, Near Hoodi,Bengaluru",
+    "latitude": 13.077881,
+    "longitude": 77.408505,
+    "year": 2025,
+    "month": "May",
+    "ph": 6.5,
+    "bod": 16.0,
+    "cod": 120.0,
+    "tds": 242.0,
+    "total_coliform": 49000.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5523,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5523,
+      "High": 0.4477
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Hoodi (Rajapalya Lake) Itpl Main Road,\r\nNear Hoodi,Bengaluru",
+    "latitude": 12.987,
+    "longitude": 77.737,
+    "year": 2025,
+    "month": "July",
+    "ph": 7.9,
+    "bod": 4.0,
+    "cod": 40.0,
+    "tds": 402.0,
+    "total_coliform": 11000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5961,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4039,
+      "High": 0.5961
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Hoodi (Rajapalya Lake) Itpl Main Road, Near",
+    "latitude": 12.98691787,
+    "longitude": 77.72293635,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.1,
+    "bod": 34.0,
+    "cod": 192.0,
+    "tds": 768.0,
+    "total_coliform": 9400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9882,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0118,
+      "High": 0.9882
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Hoodi (Rajapalya Lake) Itpl Main Road, Near Hoodi, Bengaluru",
+    "latitude": 12.879759,
+    "longitude": 77.442715,
+    "year": 2024,
+    "month": "August",
+    "ph": 7.1,
+    "bod": 7.0,
+    "cod": 84.0,
+    "tds": 424.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.701,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.299,
+      "High": 0.701
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Hoodi (Rajapalya Lake) Itpl Main Road, Near Hoodi,Bengaluru",
+    "latitude": 12.987,
+    "longitude": 77.737,
+    "year": 2025,
+    "month": "October",
+    "ph": 7.3,
+    "bod": 7.0,
+    "cod": 72.0,
+    "tds": 522.0,
+    "total_coliform": 9400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8222,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1778,
+      "High": 0.8222
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Hosakerehalli Lake",
+    "latitude": 12.92636311,
+    "longitude": 77.53384359,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.5,
+    "bod": 6.0,
+    "cod": 60.0,
+    "tds": 342.0,
+    "total_coliform": 9200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5232,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4768,
+      "High": 0.5232
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Hoskere Lake",
+    "latitude": 12.92672778,
+    "longitude": 77.48054898,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 16.0,
+    "cod": 120.0,
+    "tds": 264.0,
+    "total_coliform": 9400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5139,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5139,
+      "High": 0.4861
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Hulimavu Lake",
+    "latitude": 12.8775,
+    "longitude": 77.5912,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.6,
+    "bod": 6.0,
+    "cod": 64.0,
+    "tds": 484.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7647,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2353,
+      "High": 0.7647
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Ibbalur Lake",
+    "latitude": 12.922,
+    "longitude": 77.666,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.4,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 408.0,
+    "total_coliform": 9400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6196,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3804,
+      "High": 0.6196
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Jakksandra Lake (Kasavanahalli Lake )",
+    "latitude": 12.838467,
+    "longitude": 77.391056,
+    "year": 2025,
+    "month": "March",
+    "ph": 7.9,
+    "bod": 6.0,
+    "cod": 55.0,
+    "tds": 522.0,
+    "total_coliform": 2200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8044,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1956,
+      "High": 0.8044
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Jakkur Lake",
+    "latitude": 13.08770697,
+    "longitude": 77.61004718,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 25.0,
+    "cod": 168.0,
+    "tds": 686.0,
+    "total_coliform": 17000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9721,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0279,
+      "High": 0.9721
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Jigani Tank",
+    "latitude": 12.79585704,
+    "longitude": 77.63284772,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.8,
+    "bod": 6.0,
+    "cod": 64.0,
+    "tds": 528.0,
+    "total_coliform": 5400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8219,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1781,
+      "High": 0.8219
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Jungu Kere (Devarabeesanahalli Lake)",
+    "latitude": 12.918445,
+    "longitude": 77.354248,
+    "year": 2025,
+    "month": "March",
+    "ph": 6.6,
+    "bod": 4.0,
+    "cod": 40.0,
+    "tds": 126.0,
+    "total_coliform": 790.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.8448,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.8448,
+      "High": 0.1552
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Kachohalli Lake",
+    "latitude": 13.01365684,
+    "longitude": 77.45596987,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.7,
+    "bod": 58.0,
+    "cod": 216.0,
+    "tds": 1118.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9995,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0005,
+      "High": 0.9995
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kaikonda-Halli Lake",
+    "latitude": 13.069788,
+    "longitude": 77.303918,
+    "year": 2025,
+    "month": "February",
+    "ph": 8.5,
+    "bod": 8.0,
+    "cod": 76.0,
+    "tds": 786.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9723,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0277,
+      "High": 0.9723
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kaikondanahalli Lake",
+    "latitude": 12.91627,
+    "longitude": 77.737065,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.1,
+    "bod": 8.0,
+    "cod": 80.0,
+    "tds": 644.0,
+    "total_coliform": 1700.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9245,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0755,
+      "High": 0.9245
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kale- Agrahara Lake",
+    "latitude": 12.962628,
+    "longitude": 77.536265,
+    "year": 2025,
+    "month": "February",
+    "ph": 7.8,
+    "bod": 6.0,
+    "cod": 84.0,
+    "tds": 606.0,
+    "total_coliform": 1600.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9016,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0984,
+      "High": 0.9016
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kalena Agrahara Lake",
+    "latitude": 12.8624,
+    "longitude": 77.5956,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.9,
+    "bod": 4.0,
+    "cod": 40.0,
+    "tds": 252.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6765,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6765,
+      "High": 0.3235
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Kalkere Tank",
+    "latitude": 13.0435,
+    "longitude": 77.5141,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.2,
+    "bod": 8.0,
+    "cod": 96.0,
+    "tds": 544.0,
+    "total_coliform": 11000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8614,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1386,
+      "High": 0.8614
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kammagonda-Halli Lake",
+    "latitude": 13.14095,
+    "longitude": 77.31999,
+    "year": 2025,
+    "month": "February",
+    "ph": 6.5,
+    "bod": 12.0,
+    "cod": 121.0,
+    "tds": 280.0,
+    "total_coliform": 15000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.508,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.492,
+      "High": 0.508
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kammagondanahalli\r\nLake",
+    "latitude": 13.140041,
+    "longitude": 77.527551,
+    "year": 2023,
+    "month": "December",
+    "ph": 7.5,
+    "bod": 6.0,
+    "cod": 70.0,
+    "tds": 662.0,
+    "total_coliform": 24000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9291,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0709,
+      "High": 0.9291
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kammagondanahalli Lake",
+    "latitude": 13.06872462,
+    "longitude": 77.52323601,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 40.0,
+    "cod": 272.0,
+    "tds": 408.0,
+    "total_coliform": 7900.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8999,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1001,
+      "High": 0.8999
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kammasandra Lake",
+    "latitude": 12.944153,
+    "longitude": 77.57021,
+    "year": 2025,
+    "month": "August",
+    "ph": 7.5,
+    "bod": 6.0,
+    "cod": 72.0,
+    "tds": 452.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.727,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.273,
+      "High": 0.727
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Kan-Halli Lake Kan-Halli, Bengaluru",
+    "latitude": 13.068788,
+    "longitude": 77.447975,
+    "year": 2025,
+    "month": "February",
+    "ph": 7.1,
+    "bod": 8.0,
+    "cod": 84.0,
+    "tds": 1020.0,
+    "total_coliform": 1200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9956,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0044,
+      "High": 0.9956
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kan-Mangala Lake Hoskote Main Road , Bengalore",
+    "latitude": 12.901163,
+    "longitude": 77.511106,
+    "year": 2025,
+    "month": "February",
+    "ph": 6.6,
+    "bod": 7.0,
+    "cod": 88.0,
+    "tds": 1196.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9989,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0011,
+      "High": 0.9989
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kannahalli Lake",
+    "latitude": 13.110821,
+    "longitude": 77.302418,
+    "year": 2023,
+    "month": "October",
+    "ph": 7.0,
+    "bod": 9.0,
+    "cod": 88.0,
+    "tds": 956.0,
+    "total_coliform": 9200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9931,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0069,
+      "High": 0.9931
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kannahalli Lake Kannahalli,\r\nBengaluru",
+    "latitude": 12.943019,
+    "longitude": 77.455135,
+    "year": 2023,
+    "month": "December",
+    "ph": 7.5,
+    "bod": 8.0,
+    "cod": 82.0,
+    "tds": 792.0,
+    "total_coliform": 16000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9748,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0252,
+      "High": 0.9748
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kannahalli Lake Kannahalli, Bengaluru",
+    "latitude": 12.96824687,
+    "longitude": 77.46185005,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 21.0,
+    "cod": 152.0,
+    "tds": 1098.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9986,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0014,
+      "High": 0.9986
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kannamangala Lake Hoskote Main\r\nRoad , Bengalore",
+    "latitude": 13.013141,
+    "longitude": 77.318332,
+    "year": 2025,
+    "month": "May",
+    "ph": 7.2,
+    "bod": 13.0,
+    "cod": 138.0,
+    "tds": 290.0,
+    "total_coliform": 58000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5504,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4496,
+      "High": 0.5504
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kannamangala Lake Hoskote Main Road\r\n, Bengalore",
+    "latitude": 13.101022,
+    "longitude": 77.467515,
+    "year": 2025,
+    "month": "July",
+    "ph": 8.2,
+    "bod": 6.0,
+    "cod": 56.0,
+    "tds": 338.0,
+    "total_coliform": 1200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5022,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4978,
+      "High": 0.5022
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Kannamangala Lake Hoskote Main Road , Bengalore",
+    "latitude": 13.02935241,
+    "longitude": 77.77426959,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.1,
+    "bod": 5.0,
+    "cod": 52.0,
+    "tds": 304.0,
+    "total_coliform": 54000.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5704,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5704,
+      "High": 0.4296
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kannamangala Lake Hoskote Main Road, Bengalore",
+    "latitude": 12.954478,
+    "longitude": 77.529489,
+    "year": 2025,
+    "month": "June",
+    "ph": 7.6,
+    "bod": 6.0,
+    "cod": 56.0,
+    "tds": 258.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6436,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6436,
+      "High": 0.3564
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Kannur Lake",
+    "latitude": 12.813027,
+    "longitude": 77.451591,
+    "year": 2023,
+    "month": "October",
+    "ph": 6.7,
+    "bod": 4.0,
+    "cod": 45.0,
+    "tds": 266.0,
+    "total_coliform": 9200.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6456,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6456,
+      "High": 0.3544
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kannur Lake Near By\r\nHennur Road Bengalore",
+    "latitude": 13.009138,
+    "longitude": 77.424445,
+    "year": 2023,
+    "month": "December",
+    "ph": 8.2,
+    "bod": 8.0,
+    "cod": 77.0,
+    "tds": 460.0,
+    "total_coliform": 9200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7468,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2532,
+      "High": 0.7468
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kannur Lake Near By Hennur Road\r\nBengalore",
+    "latitude": 13.018395,
+    "longitude": 77.432364,
+    "year": 2025,
+    "month": "July",
+    "ph": 8.3,
+    "bod": 105.0,
+    "cod": 352.0,
+    "tds": 2900.0,
+    "total_coliform": 240000.0,
+    "ml_risk": "High",
+    "ml_confidence": 1.0,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0,
+      "High": 1.0
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kannur Lake Near By Hennur Road Bengalore",
+    "latitude": 13.1032445,
+    "longitude": 77.66119409,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.2,
+    "bod": 20.0,
+    "cod": 148.0,
+    "tds": 936.0,
+    "total_coliform": 8400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9948,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0052,
+      "High": 0.9948
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Karihoba-Halli Lake",
+    "latitude": 13.057453,
+    "longitude": 77.46025,
+    "year": 2025,
+    "month": "February",
+    "ph": 6.6,
+    "bod": 15.0,
+    "cod": 161.0,
+    "tds": 356.0,
+    "total_coliform": 7900.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7045,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2955,
+      "High": 0.7045
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Karihobanahalli Lake",
+    "latitude": 13.0294,
+    "longitude": 77.5147,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.8,
+    "bod": 19.0,
+    "cod": 136.0,
+    "tds": 620.0,
+    "total_coliform": 11000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9425,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0575,
+      "High": 0.9425
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kasava-Halli Lake",
+    "latitude": 12.875408,
+    "longitude": 77.465754,
+    "year": 2025,
+    "month": "February",
+    "ph": 7.6,
+    "bod": 6.0,
+    "cod": 64.0,
+    "tds": 568.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8605,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1395,
+      "High": 0.8605
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kasavanahalli Lake",
+    "latitude": 12.90544792,
+    "longitude": 77.66897823,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.9,
+    "bod": 4.0,
+    "cod": 40.0,
+    "tds": 470.0,
+    "total_coliform": 2100.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7127,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2873,
+      "High": 0.7127
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Kembhatahali Lake-66, Kothannur, 1St Phase ,",
+    "latitude": 12.86077477,
+    "longitude": 77.57798836,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 228.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.7066,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.7066,
+      "High": 0.2934
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Kembhatahali Lake-66, Kothannur, 1St Phase , Bengaluru",
+    "latitude": 13.046886,
+    "longitude": 77.46197,
+    "year": 2025,
+    "month": "October",
+    "ph": 7.6,
+    "bod": 6.0,
+    "cod": 68.0,
+    "tds": 456.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7284,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2716,
+      "High": 0.7284
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Kempambudhi Tank",
+    "latitude": 12.9507,
+    "longitude": 77.5844,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 30.0,
+    "cod": 144.0,
+    "tds": 334.0,
+    "total_coliform": 7000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.689,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.311,
+      "High": 0.689
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kengeri Tank",
+    "latitude": 12.91685922,
+    "longitude": 77.48789417,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 5.0,
+    "cod": 56.0,
+    "tds": 342.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5121,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4879,
+      "High": 0.5121
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Kodi Singasandra Lake",
+    "latitude": 12.88226483,
+    "longitude": 77.6455833,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 5.0,
+    "cod": 52.0,
+    "tds": 222.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.7088,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.7088,
+      "High": 0.2912
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Kogilu Kere",
+    "latitude": 13.11015107,
+    "longitude": 77.61852742,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 6.0,
+    "cod": 76.0,
+    "tds": 390.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6312,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3688,
+      "High": 0.6312
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Kothanuru Lake",
+    "latitude": 12.87403308,
+    "longitude": 77.58000279,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.3,
+    "bod": 5.0,
+    "cod": 48.0,
+    "tds": 222.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.7145,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.7145,
+      "High": 0.2855
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Kowdhe-Halli Tank",
+    "latitude": 13.005358,
+    "longitude": 77.380466,
+    "year": 2025,
+    "month": "February",
+    "ph": 8.5,
+    "bod": 7.0,
+    "cod": 83.0,
+    "tds": 522.0,
+    "total_coliform": 7000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8277,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1723,
+      "High": 0.8277
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kowdhenahalli Tank",
+    "latitude": 13.02076247,
+    "longitude": 77.67591701,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.5,
+    "bod": 22.0,
+    "cod": 140.0,
+    "tds": 504.0,
+    "total_coliform": 5400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8765,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1235,
+      "High": 0.8765
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Chikkakere  Village",
+    "latitude": 12.89668663,
+    "longitude": 77.54331633,
+    "year": 2023,
+    "month": "September",
+    "ph": 8.1,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 604.0,
+    "total_coliform": 9200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8754,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1246,
+      "High": 0.8754
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Chikkakere, Bgp Layout\r\nKudlu Vill ,Bengaluru",
+    "latitude": 13.112295,
+    "longitude": 77.335693,
+    "year": 2023,
+    "month": "December",
+    "ph": 7.1,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 588.0,
+    "total_coliform": 35000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8637,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1363,
+      "High": 0.8637
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Chikkakere, Bgp Layout Kudlu\r\nVill ,Bengaluru",
+    "latitude": 12.819339,
+    "longitude": 77.322051,
+    "year": 2025,
+    "month": "July",
+    "ph": 7.5,
+    "bod": 6.0,
+    "cod": 68.0,
+    "tds": 554.0,
+    "total_coliform": 11000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8503,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1497,
+      "High": 0.8503
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Chikkakere, Bgp Layout Kudlu Vill\r\n,Bengaluru",
+    "latitude": 13.141378,
+    "longitude": 77.367218,
+    "year": 2025,
+    "month": "October",
+    "ph": 7.0,
+    "bod": 16.0,
+    "cod": 132.0,
+    "tds": 512.0,
+    "total_coliform": 920.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8707,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1293,
+      "High": 0.8707
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Chikkakere, Bgp Layout Kudlu Vill , Bengaluru",
+    "latitude": 13.045276,
+    "longitude": 77.511867,
+    "year": 2024,
+    "month": "November",
+    "ph": 7.6,
+    "bod": 6.0,
+    "cod": 60.0,
+    "tds": 756.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9621,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0379,
+      "High": 0.9621
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Chikkakere, Bgp Layout Kudlu Vill ,Bengaluru",
+    "latitude": 12.89682592,
+    "longitude": 77.6551178,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.4,
+    "bod": 21.0,
+    "cod": 168.0,
+    "tds": 630.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9554,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0446,
+      "High": 0.9554
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Chikkakere, Bgp Layout Kudlu Vill Bengaluru",
+    "latitude": 12.897729,
+    "longitude": 77.455237,
+    "year": 2024,
+    "month": "June",
+    "ph": 8.1,
+    "bod": 9.0,
+    "cod": 88.0,
+    "tds": 710.0,
+    "total_coliform": 920.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9555,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0445,
+      "High": 0.9555
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Chikkakere, Bgp Layout Kudlu Vill, Bengaluru",
+    "latitude": 13.025449,
+    "longitude": 77.512944,
+    "year": 2025,
+    "month": "June",
+    "ph": 7.8,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 554.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8314,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1686,
+      "High": 0.8314
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Chikkakere, Bgp Layout Kudlu Vill,Bengaluru",
+    "latitude": 12.833315,
+    "longitude": 77.358203,
+    "year": 2025,
+    "month": "January",
+    "ph": 7.5,
+    "bod": 10.0,
+    "cod": 125.0,
+    "tds": 880.0,
+    "total_coliform": 4800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.99,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.01,
+      "High": 0.99
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Doddakere Village",
+    "latitude": 13.0901,
+    "longitude": 77.5925,
+    "year": 2023,
+    "month": "September",
+    "ph": 1.9,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 602.0,
+    "total_coliform": 16000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.888,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.112,
+      "High": 0.888
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "pH",
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Doddakere,\r\nKudlu Vill,Bengaluru",
+    "latitude": 12.874942,
+    "longitude": 77.430672,
+    "year": 2023,
+    "month": "December",
+    "ph": 6.5,
+    "bod": 40.0,
+    "cod": 200.0,
+    "tds": 420.0,
+    "total_coliform": 54000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8703,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1297,
+      "High": 0.8703
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Doddakere, Kudlu\r\nVill,Bengaluru",
+    "latitude": 13.068423,
+    "longitude": 77.425856,
+    "year": 2025,
+    "month": "May",
+    "ph": 8.5,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 502.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.762,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.238,
+      "High": 0.762
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Doddakere, Kudlu Vill, Bengaluru",
+    "latitude": 13.032371,
+    "longitude": 77.54156,
+    "year": 2024,
+    "month": "October",
+    "ph": 8.2,
+    "bod": 5.0,
+    "cod": 60.0,
+    "tds": 272.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6193,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6193,
+      "High": 0.3807
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Kudlu Doddakere, Kudlu Vill,Bengaluru",
+    "latitude": 12.88376503,
+    "longitude": 77.66439049,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.3,
+    "bod": 25.0,
+    "cod": 180.0,
+    "tds": 544.0,
+    "total_coliform": 9200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9261,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0739,
+      "High": 0.9261
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Kundalahalli Lake",
+    "latitude": 12.96854049,
+    "longitude": 77.72057586,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.3,
+    "bod": 15.0,
+    "cod": 156.0,
+    "tds": 784.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9836,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0164,
+      "High": 0.9836
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Lalbagh Tank",
+    "latitude": 12.9069,
+    "longitude": 77.6161,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.7,
+    "bod": 4.0,
+    "cod": 40.0,
+    "tds": 338.0,
+    "total_coliform": 1700.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5239,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5239,
+      "High": 0.4761
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Leghumenahalli Lake",
+    "latitude": 13.01979254,
+    "longitude": 77.46222486,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.2,
+    "bod": 6.0,
+    "cod": 60.0,
+    "tds": 304.0,
+    "total_coliform": 92000.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5568,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5568,
+      "High": 0.4432
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Lower Amblipura Lake, Pwd Quarters,1St Sector, Hsr",
+    "latitude": 12.91755998,
+    "longitude": 77.66502143,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.8,
+    "bod": 5.0,
+    "cod": 52.0,
+    "tds": 458.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7104,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2896,
+      "High": 0.7104
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Lower Amblipura Lake, Pwd Quarters,1St Sector, Hsr Layout Bengaluru",
+    "latitude": 12.828798,
+    "longitude": 77.576339,
+    "year": 2025,
+    "month": "October",
+    "ph": 7.6,
+    "bod": 5.0,
+    "cod": 47.0,
+    "tds": 366.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5427,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4573,
+      "High": 0.5427
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Machohalli Lake",
+    "latitude": 13.01318643,
+    "longitude": 77.4546073,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 42.0,
+    "cod": 192.0,
+    "tds": 1420.0,
+    "total_coliform": 70000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9999,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0001,
+      "High": 0.9999
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Madhure Tank",
+    "latitude": 13.071578,
+    "longitude": 77.393708,
+    "year": 2025,
+    "month": "March",
+    "ph": 6.7,
+    "bod": 4.0,
+    "cod": 42.0,
+    "tds": 274.0,
+    "total_coliform": 17000.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6353,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6353,
+      "High": 0.3647
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Madiwala Tank",
+    "latitude": 12.9734,
+    "longitude": 77.3444,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.5,
+    "bod": 6.0,
+    "cod": 56.0,
+    "tds": 258.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6389,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6389,
+      "High": 0.3611
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Mahadevapura Lake, K. R. Puram , Bangalore East Taluka",
+    "latitude": 12.987,
+    "longitude": 77.692,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.1,
+    "bod": 12.0,
+    "cod": 136.0,
+    "tds": 798.0,
+    "total_coliform": 2100.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.983,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.017,
+      "High": 0.983
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Mahadevapura Lake-2",
+    "latitude": 12.987222,
+    "longitude": 77.69263918,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 29.0,
+    "cod": 188.0,
+    "tds": 674.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.974,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.026,
+      "High": 0.974
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Mahadevpura  Lake, K. R. Puram ,\r\nBangalore East Taluka",
+    "latitude": 13.108597,
+    "longitude": 77.449327,
+    "year": 2025,
+    "month": "July",
+    "ph": 7.0,
+    "bod": 8.0,
+    "cod": 84.0,
+    "tds": 352.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5787,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4213,
+      "High": 0.5787
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Mahadevpura  Lake, K. R. Puram , Bangalore East Taluka",
+    "latitude": 13.025421,
+    "longitude": 77.411364,
+    "year": 2023,
+    "month": "October",
+    "ph": 8.2,
+    "bod": 8.0,
+    "cod": 96.0,
+    "tds": 392.0,
+    "total_coliform": 54000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6608,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3392,
+      "High": 0.6608
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Mahadevpura Lake, K. R. Puram , Bangalore East Taluka",
+    "latitude": 12.844151,
+    "longitude": 77.566037,
+    "year": 2023,
+    "month": "September",
+    "ph": 8.7,
+    "bod": 3.2,
+    "cod": 132.0,
+    "tds": 378.0,
+    "total_coliform": 35000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6646,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3354,
+      "High": 0.6646
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "pH",
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Mahadevpuraã¢   Lake,\r\nK. R. Puram ,Bangalore East Taluka",
+    "latitude": 13.186615,
+    "longitude": 77.391624,
+    "year": 2023,
+    "month": "December",
+    "ph": 8.2,
+    "bod": 10.0,
+    "cod": 120.0,
+    "tds": 400.0,
+    "total_coliform": 54000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.708,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.292,
+      "High": 0.708
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Mahadevpuraã¢   Lake, K. R. Puram , Bangalore East Taluka",
+    "latitude": 13.113666,
+    "longitude": 77.571138,
+    "year": 2024,
+    "month": "April",
+    "ph": 9.1,
+    "bod": 9.0,
+    "cod": 100.0,
+    "tds": 571.0186399723852,
+    "total_coliform": 7900.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8861,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1139,
+      "High": 0.8861
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "pH",
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Mahadevpuraã¢  Lake, K. R. Pura",
+    "latitude": 13.003681,
+    "longitude": 77.540221,
+    "year": 2023,
+    "month": "August",
+    "ph": 8.2,
+    "bod": 7.0,
+    "cod": 80.0,
+    "tds": 390.0,
+    "total_coliform": 24000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6343,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3657,
+      "High": 0.6343
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Mahadevpuraã¢  Lake, K. R. Puram ,\r\nBangalore East Taluka",
+    "latitude": 12.803323,
+    "longitude": 77.436343,
+    "year": 2025,
+    "month": "May",
+    "ph": 7.1,
+    "bod": 5.0,
+    "cod": 64.0,
+    "tds": 338.0,
+    "total_coliform": 13000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5149,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4851,
+      "High": 0.5149
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Mahadevpuraã¢  Lake, K. R. Puram , Bangalore East Taluka",
+    "latitude": 13.002092,
+    "longitude": 77.578849,
+    "year": 2025,
+    "month": "October",
+    "ph": 8.5,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 275.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6336,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6336,
+      "High": 0.3664
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Malathahalli Lake",
+    "latitude": 12.96467512,
+    "longitude": 77.49507669,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.7,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 406.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6147,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3853,
+      "High": 0.6147
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Mallapura Kere, Mallapura Vill, Nh-13, Hospet Road Chitradurga,Bengaluru",
+    "latitude": 12.90305626,
+    "longitude": 77.55084832,
+    "year": 2023,
+    "month": "August",
+    "ph": 7.8,
+    "bod": 28.2,
+    "cod": 44.0,
+    "tds": 968.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9937,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0063,
+      "High": 0.9937
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Mangama-Palya Lake(Swara- Kunte)",
+    "latitude": 12.978853,
+    "longitude": 77.452491,
+    "year": 2025,
+    "month": "February",
+    "ph": 7.0,
+    "bod": 4.0,
+    "cod": 53.0,
+    "tds": 568.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8512,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1488,
+      "High": 0.8512
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Mangamanapalya\r\nLake(Swarana Kunte)",
+    "latitude": 12.922,
+    "longitude": 77.641,
+    "year": 2023,
+    "month": "August",
+    "ph": 7.3,
+    "bod": 7.0,
+    "cod": 89.0,
+    "tds": 790.0,
+    "total_coliform": 92000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9752,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0248,
+      "High": 0.9752
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Mangamanapalya Lake\r\n(Swarana Kunte)",
+    "latitude": 12.940859,
+    "longitude": 77.332152,
+    "year": 2023,
+    "month": "December",
+    "ph": 7.3,
+    "bod": 6.0,
+    "cod": 50.0,
+    "tds": 432.0,
+    "total_coliform": 9200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6705,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3295,
+      "High": 0.6705
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Mangamanapalya Lake (Swarana Kunte)",
+    "latitude": 13.080327,
+    "longitude": 77.493284,
+    "year": 2025,
+    "month": "June",
+    "ph": 7.7,
+    "bod": 5.0,
+    "cod": 48.0,
+    "tds": 536.0,
+    "total_coliform": 2100.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8135,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1865,
+      "High": 0.8135
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Mangamanapalya Lake(Swarana\r\nKunte)",
+    "latitude": 12.996616,
+    "longitude": 77.510653,
+    "year": 2024,
+    "month": "July",
+    "ph": 7.9,
+    "bod": 6.0,
+    "cod": 56.0,
+    "tds": 540.0,
+    "total_coliform": 1587877.775488827,
+    "ml_risk": "High",
+    "ml_confidence": 0.828,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.172,
+      "High": 0.828
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Mangamanapalya Lake(Swarana Kunte)",
+    "latitude": 12.90269634,
+    "longitude": 7.639448243,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.9,
+    "bod": 6.0,
+    "cod": 60.0,
+    "tds": 464.0,
+    "total_coliform": 1700.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7307,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2693,
+      "High": 0.7307
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Mathikere Tank",
+    "latitude": 13.00974799,
+    "longitude": 77.5736474,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.4,
+    "bod": 7.0,
+    "cod": 68.0,
+    "tds": 198.0,
+    "total_coliform": 13000.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.7244,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.7244,
+      "High": 0.2756
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Mugalur, Bengaluru",
+    "latitude": 12.919579,
+    "longitude": 77.338619,
+    "year": 2023,
+    "month": "October",
+    "ph": 7.2,
+    "bod": 16.0,
+    "cod": 108.0,
+    "tds": 802.0,
+    "total_coliform": 3500000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9824,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0176,
+      "High": 0.9824
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Mulbagalu Lake",
+    "latitude": 12.88376503,
+    "longitude": 77.66439049,
+    "year": 2023,
+    "month": "August",
+    "ph": 7.9,
+    "bod": 20.0,
+    "cod": 136.0,
+    "tds": 824.0,
+    "total_coliform": 92000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9872,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0128,
+      "High": 0.9872
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Munekolalu Lake\r\n,Marathahalli, East Taluka",
+    "latitude": 12.961,
+    "longitude": 77.7,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 20.0,
+    "cod": 176.0,
+    "tds": 846.0,
+    "total_coliform": 13000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9914,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0086,
+      "High": 0.9914
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Munekolalu Lake ,Marathahalli,\r\nEast Taluka ,Bengaluru",
+    "latitude": 13.010218,
+    "longitude": 77.406366,
+    "year": 2023,
+    "month": "December",
+    "ph": 8.4,
+    "bod": 8.0,
+    "cod": 92.0,
+    "tds": 366.0,
+    "total_coliform": 35000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6089,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3911,
+      "High": 0.6089
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Munekolalu Lake ,Marathahalli, East\r\nTaluka ,Bengaluru",
+    "latitude": 12.964142,
+    "longitude": 77.493424,
+    "year": 2025,
+    "month": "July",
+    "ph": 7.1,
+    "bod": 16.0,
+    "cod": 112.0,
+    "tds": 480.0,
+    "total_coliform": 11000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8252,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1748,
+      "High": 0.8252
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Munekolalu Lake ,Marathahalli, East Taluka\r\n,Bengaluru",
+    "latitude": 13.079491,
+    "longitude": 77.392204,
+    "year": 2025,
+    "month": "October",
+    "ph": 7.2,
+    "bod": 13.0,
+    "cod": 124.0,
+    "tds": 822.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.985,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.015,
+      "High": 0.985
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Munekolalu Lake ,Marathahalli, East Taluka , Bengaluru",
+    "latitude": 12.992822,
+    "longitude": 77.520317,
+    "year": 2024,
+    "month": "November",
+    "ph": 8.0,
+    "bod": 12.0,
+    "cod": 110.0,
+    "tds": 272.0,
+    "total_coliform": 5400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5292,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5292,
+      "High": 0.4708
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Munekolalu Lake ,Marathahalli, East Taluka ,Bengaluru",
+    "latitude": 12.944934,
+    "longitude": 77.326866,
+    "year": 2025,
+    "month": "September",
+    "ph": 7.3,
+    "bod": 11.0,
+    "cod": 116.0,
+    "tds": 824.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9842,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0158,
+      "High": 0.9842
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Mydala Tank",
+    "latitude": 13.042831,
+    "longitude": 77.376907,
+    "year": 2025,
+    "month": "March",
+    "ph": 7.0,
+    "bod": 4.0,
+    "cod": 53.0,
+    "tds": 140.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.8211,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.8211,
+      "High": 0.1789
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Nagavara Lake",
+    "latitude": 13.0449046,
+    "longitude": 77.60895858,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 5.0,
+    "cod": 48.0,
+    "tds": 302.0,
+    "total_coliform": 9400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5746,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5746,
+      "High": 0.4254
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Nallurahalli Lake",
+    "latitude": 12.97468741,
+    "longitude": 77.7354134,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.3,
+    "bod": 22.0,
+    "cod": 160.0,
+    "tds": 346.0,
+    "total_coliform": 2200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7041,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2959,
+      "High": 0.7041
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Nanjapura Tank",
+    "latitude": 12.947003,
+    "longitude": 77.443682,
+    "year": 2024,
+    "month": "August",
+    "ph": 6.89,
+    "bod": 8.0,
+    "cod": 134.0,
+    "tds": 2020.0,
+    "total_coliform": 1587877.775488827,
+    "ml_risk": "High",
+    "ml_confidence": 1.0,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0,
+      "High": 1.0
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Narasipura Lake",
+    "latitude": 13.07260237,
+    "longitude": 77.55884035,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 360.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5312,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4688,
+      "High": 0.5312
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Nayandanahalli",
+    "latitude": 12.988757,
+    "longitude": 77.453624,
+    "year": 2024,
+    "month": "October",
+    "ph": 8.5,
+    "bod": 18.0,
+    "cod": 121.0,
+    "tds": 462.0,
+    "total_coliform": 1700.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8122,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1878,
+      "High": 0.8122
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Nayandanahalli Tank",
+    "latitude": 13.1162,
+    "longitude": 77.5759,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.8,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 462.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.705,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.295,
+      "High": 0.705
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Nelamangala Lake",
+    "latitude": 13.08073442,
+    "longitude": 77.40002615,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 14.0,
+    "cod": 128.0,
+    "tds": 824.0,
+    "total_coliform": 1700.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9858,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0142,
+      "High": 0.9858
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Panathur Lake",
+    "latitude": 12.9321787,
+    "longitude": 77.70710816,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 19.0,
+    "cod": 128.0,
+    "tds": 334.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6379,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3621,
+      "High": 0.6379
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Parappa- Agrahara Lake",
+    "latitude": 12.907983,
+    "longitude": 77.380245,
+    "year": 2025,
+    "month": "February",
+    "ph": 7.0,
+    "bod": 29.0,
+    "cod": 172.0,
+    "tds": 766.0,
+    "total_coliform": 70000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9858,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0142,
+      "High": 0.9858
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Parappana\r\nAgrahara Lake",
+    "latitude": 13.03367,
+    "longitude": 77.331917,
+    "year": 2023,
+    "month": "December",
+    "ph": 7.5,
+    "bod": 8.0,
+    "cod": 83.0,
+    "tds": 596.0,
+    "total_coliform": 240000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8973,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1027,
+      "High": 0.8973
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Parappana Agrahara Chikka Kere, Near Central Jail, Sai",
+    "latitude": 12.87822357,
+    "longitude": 77.66120617,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.8,
+    "bod": 15.0,
+    "cod": 144.0,
+    "tds": 640.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9489,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0511,
+      "High": 0.9489
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Parappana Agrahara Chikka Kere, Near Central Jail, Sai Sree Layout Parappana",
+    "latitude": 13.188114,
+    "longitude": 77.472549,
+    "year": 2025,
+    "month": "October",
+    "ph": 6.7,
+    "bod": 18.0,
+    "cod": 152.0,
+    "tds": 532.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9004,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0996,
+      "High": 0.9004
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Parappana Agrahara Chikka Kere, Near Central Jail, Sai Sree Layout Parappana Agrahara,",
+    "latitude": 12.882196,
+    "longitude": 77.490474,
+    "year": 2025,
+    "month": "September",
+    "ph": 8.2,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 382.0,
+    "total_coliform": 9400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5629,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4371,
+      "High": 0.5629
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Parappana Agrahara Lake",
+    "latitude": 12.8879,
+    "longitude": 77.6591,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.9,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 462.0,
+    "total_coliform": 9200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7091,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2909,
+      "High": 0.7091
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Pattandur\r\nAgrahara Lake",
+    "latitude": 12.996701,
+    "longitude": 77.575178,
+    "year": 2023,
+    "month": "December",
+    "ph": 7.3,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 1158.0,
+    "total_coliform": 24000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.998,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.002,
+      "High": 0.998
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Pattandur Agrahara Lake",
+    "latitude": 12.97655779,
+    "longitude": 77.74570003,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.1,
+    "bod": 10.0,
+    "cod": 104.0,
+    "tds": 360.0,
+    "total_coliform": 5400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6254,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3746,
+      "High": 0.6254
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Putte-Halli Lake",
+    "latitude": 13.033277,
+    "longitude": 77.57062,
+    "year": 2025,
+    "month": "February",
+    "ph": 7.4,
+    "bod": 10.0,
+    "cod": 114.0,
+    "tds": 724.0,
+    "total_coliform": 4900.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9658,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0342,
+      "High": 0.9658
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Puttenahalli Lake",
+    "latitude": 12.89072263,
+    "longitude": 77.5871604,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.6,
+    "bod": 7.0,
+    "cod": 88.0,
+    "tds": 622.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9164,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0836,
+      "High": 0.9164
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Rache-Halli Lake",
+    "latitude": 13.19381,
+    "longitude": 77.555084,
+    "year": 2025,
+    "month": "February",
+    "ph": 7.6,
+    "bod": 22.0,
+    "cod": 208.0,
+    "tds": 838.0,
+    "total_coliform": 13000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9925,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0075,
+      "High": 0.9925
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Rachenahalli Lake",
+    "latitude": 13.06365337,
+    "longitude": 77.61270948,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.8,
+    "bod": 40.0,
+    "cod": 272.0,
+    "tds": 730.0,
+    "total_coliform": 7000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9906,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0094,
+      "High": 0.9906
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Ramamma- Kere",
+    "latitude": 12.814449,
+    "longitude": 77.443558,
+    "year": 2025,
+    "month": "February",
+    "ph": 6.6,
+    "bod": 16.0,
+    "cod": 149.0,
+    "tds": 366.0,
+    "total_coliform": 9400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7095,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2905,
+      "High": 0.7095
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Ramammana Kere",
+    "latitude": 12.96089629,
+    "longitude": 77.22799123,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.9,
+    "bod": 5.0,
+    "cod": 56.0,
+    "tds": 474.0,
+    "total_coliform": 7000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7423,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2577,
+      "High": 0.7423
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Rampura Lake",
+    "latitude": 13.04831239,
+    "longitude": 77.69012069,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 26.0,
+    "cod": 184.0,
+    "tds": 842.0,
+    "total_coliform": 9400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9922,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0078,
+      "High": 0.9922
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Rayasandra Lake",
+    "latitude": 12.87037689,
+    "longitude": 77.6779843,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.4,
+    "bod": 32.0,
+    "cod": 168.0,
+    "tds": 1080.0,
+    "total_coliform": 9400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9987,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0013,
+      "High": 0.9987
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "River Arkavathi At\r\nTippagondanahalli Reservoir",
+    "latitude": 12.814776,
+    "longitude": 77.495342,
+    "year": 2024,
+    "month": "July",
+    "ph": 7.4,
+    "bod": 6.0,
+    "cod": 72.0,
+    "tds": 766.0,
+    "total_coliform": 1587877.775488827,
+    "ml_risk": "High",
+    "ml_confidence": 0.9675,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0325,
+      "High": 0.9675
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "River Arkavathi At Tippagonda-Halli Reservoir",
+    "latitude": 12.807532,
+    "longitude": 77.534075,
+    "year": 2025,
+    "month": "February",
+    "ph": 7.7,
+    "bod": 10.0,
+    "cod": 101.0,
+    "tds": 762.0,
+    "total_coliform": 1700.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9722,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0278,
+      "High": 0.9722
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "River Arkavathi At Tippagondanahalli\r\nReservoir",
+    "latitude": 13.041827,
+    "longitude": 77.33986,
+    "year": 2025,
+    "month": "May",
+    "ph": 7.5,
+    "bod": 6.0,
+    "cod": 55.0,
+    "tds": 682.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9336,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0664,
+      "High": 0.9336
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "River Arkavathi At Tippagondanahalli Reservoir",
+    "latitude": 12.966127,
+    "longitude": 77.336189,
+    "year": 2025,
+    "month": "September",
+    "ph": 7.9,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 728.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9489,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0511,
+      "High": 0.9489
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "River Dakshina Pinakini\r\nNear Mugalur Bridge Mugalur, Bengaluru",
+    "latitude": 13.060997,
+    "longitude": 77.373557,
+    "year": 2023,
+    "month": "December",
+    "ph": 7.1,
+    "bod": 27.0,
+    "cod": 184.0,
+    "tds": 972.0,
+    "total_coliform": 9200000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9974,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0026,
+      "High": 0.9974
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "River Dakshina Pinakini Near Mugalur Bridge",
+    "latitude": 13.149369,
+    "longitude": 77.339754,
+    "year": 2023,
+    "month": "September",
+    "ph": 7.0,
+    "bod": 5.0,
+    "cod": 48.0,
+    "tds": 1240.0,
+    "total_coliform": 54000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.999,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.001,
+      "High": 0.999
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "River Dakshina Pinakini Near Mugalur Bridge\r\nMugalur, Bengaluru",
+    "latitude": 13.091573,
+    "longitude": 77.49484,
+    "year": 2024,
+    "month": "June",
+    "ph": 6.9,
+    "bod": 25.0,
+    "cod": 200.0,
+    "tds": 952.0,
+    "total_coliform": 7900.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9969,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0031,
+      "High": 0.9969
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "River Dakshina Pinakini Near Mugalur Bridge Mugalur, Bengaluru",
+    "latitude": 12.923526,
+    "longitude": 77.560747,
+    "year": 2024,
+    "month": "December",
+    "ph": 7.2,
+    "bod": 36.0,
+    "cod": 200.0,
+    "tds": 984.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9979,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0021,
+      "High": 0.9979
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Sadaramangala Lake",
+    "latitude": 12.99966199,
+    "longitude": 77.72775764,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 38.0,
+    "cod": 200.0,
+    "tds": 726.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9853,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0147,
+      "High": 0.9853
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Sankey Tank",
+    "latitude": 12.982,
+    "longitude": 77.621,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.4,
+    "bod": 5.0,
+    "cod": 52.0,
+    "tds": 484.0,
+    "total_coliform": 79000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.751,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.249,
+      "High": 0.751
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Sankeytank",
+    "latitude": 13.054749,
+    "longitude": 77.319253,
+    "year": 2023,
+    "month": "October",
+    "ph": 7.7,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 386.0,
+    "total_coliform": 1600.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5726,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4274,
+      "High": 0.5726
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Sarakki Lake",
+    "latitude": 12.89941681,
+    "longitude": 77.57913342,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.6,
+    "bod": 4.0,
+    "cod": 56.0,
+    "tds": 468.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7283,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2717,
+      "High": 0.7283
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Seetharampalya Lake",
+    "latitude": 12.98248112,
+    "longitude": 77.71330594,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.3,
+    "bod": 11.0,
+    "cod": 116.0,
+    "tds": 356.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6358,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3642,
+      "High": 0.6358
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Segehalli Lake Baava-Pura Road Battarahalli , Bangalore East",
+    "latitude": 13.184951,
+    "longitude": 77.465222,
+    "year": 2025,
+    "month": "February",
+    "ph": 7.2,
+    "bod": 12.0,
+    "cod": 143.0,
+    "tds": 1104.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9984,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0016,
+      "High": 0.9984
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Segehalli Lake Baavanapura Road\r\nBattarahalli , Bangalore East",
+    "latitude": 12.909428,
+    "longitude": 77.373485,
+    "year": 2025,
+    "month": "July",
+    "ph": 7.3,
+    "bod": 6.0,
+    "cod": 74.0,
+    "tds": 806.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9758,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0242,
+      "High": 0.9758
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Segehalli Lake Baavanapura Road Battarahalli\r\n, Bangalore East",
+    "latitude": 13.17082,
+    "longitude": 77.521203,
+    "year": 2025,
+    "month": "June",
+    "ph": 7.5,
+    "bod": 7.0,
+    "cod": 68.0,
+    "tds": 328.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5061,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4939,
+      "High": 0.5061
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Segehalli Lake Baavanapura Road Battarahalli , Bangalore",
+    "latitude": 13.01009418,
+    "longitude": 77.71324186,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.4,
+    "bod": 18.0,
+    "cod": 120.0,
+    "tds": 584.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9176,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0824,
+      "High": 0.9176
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Segehalli Lake Baavanapura Road Battarahalli , Bangalore East",
+    "latitude": 13.065172,
+    "longitude": 77.548793,
+    "year": 2025,
+    "month": "October",
+    "ph": 8.4,
+    "bod": 6.0,
+    "cod": 56.0,
+    "tds": 314.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5444,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5444,
+      "High": 0.4556
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Segehalli Lake Baavanapura Road Battarahalli Bangalore East",
+    "latitude": 12.852609,
+    "longitude": 77.338239,
+    "year": 2024,
+    "month": "June",
+    "ph": 8.5,
+    "bod": 14.0,
+    "cod": 138.0,
+    "tds": 360.0,
+    "total_coliform": 5400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6738,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3262,
+      "High": 0.6738
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Sheelavanta-\r\nWhitefield Lake",
+    "latitude": 13.068728,
+    "longitude": 77.469624,
+    "year": 2023,
+    "month": "December",
+    "ph": 8.2,
+    "bod": 4.0,
+    "cod": 45.0,
+    "tds": 802.0,
+    "total_coliform": 92000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9697,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0303,
+      "High": 0.9697
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Sheelavanta-Whitefield Lake",
+    "latitude": 12.96463102,
+    "longitude": 77.74265937,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 18.0,
+    "cod": 132.0,
+    "tds": 354.0,
+    "total_coliform": 7900.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6742,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3258,
+      "High": 0.6742
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Sheelavanta/Whitefield Lake",
+    "latitude": 12.976473,
+    "longitude": 77.309018,
+    "year": 2024,
+    "month": "June",
+    "ph": 7.5,
+    "bod": 14.0,
+    "cod": 140.0,
+    "tds": 718.0,
+    "total_coliform": 11000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9704,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0296,
+      "High": 0.9704
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Shettihalli Lake, Mallasandra\r\nGudde Lake Bengaluru",
+    "latitude": 13.15858,
+    "longitude": 77.333814,
+    "year": 2023,
+    "month": "December",
+    "ph": 6.6,
+    "bod": 14.0,
+    "cod": 127.0,
+    "tds": 426.0,
+    "total_coliform": 35000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7693,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2307,
+      "High": 0.7693
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Shettihalli Lake, Mallasandra Gudde\r\nLake Bengaluru",
+    "latitude": 13.058,
+    "longitude": 77.518,
+    "year": 2025,
+    "month": "July",
+    "ph": 6.8,
+    "bod": 20.0,
+    "cod": 148.0,
+    "tds": 448.0,
+    "total_coliform": 12000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8268,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1732,
+      "High": 0.8268
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Shettihalli Lake, Mallasandra Gudde Lake\r\nBengaluru",
+    "latitude": 12.912741,
+    "longitude": 77.479761,
+    "year": 2024,
+    "month": "June",
+    "ph": 5.9,
+    "bod": 23.0,
+    "cod": 153.0,
+    "tds": 722.0,
+    "total_coliform": 48000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9768,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0232,
+      "High": 0.9768
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "pH",
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Shettihalli Lake, Mallasandra Gudde Lake Bengaluru",
+    "latitude": 13.058,
+    "longitude": 77.518,
+    "year": 2025,
+    "month": "October",
+    "ph": 6.7,
+    "bod": 66.0,
+    "cod": 224.0,
+    "tds": 388.0,
+    "total_coliform": 15000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8938,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1062,
+      "High": 0.8938
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Shivapura Tank",
+    "latitude": 13.0456,
+    "longitude": 77.4828,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.7,
+    "bod": 17.0,
+    "cod": 128.0,
+    "tds": 370.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6942,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3058,
+      "High": 0.6942
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Singapura Lake",
+    "latitude": 13.08266187,
+    "longitude": 77.53568704,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 418.0,
+    "total_coliform": 4600.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6341,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3659,
+      "High": 0.6341
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Singasandra Lake",
+    "latitude": 12.8872,
+    "longitude": 77.6493,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.0,
+    "bod": 8.0,
+    "cod": 84.0,
+    "tds": 586.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8895,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1105,
+      "High": 0.8895
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Somasundrapalya Lake",
+    "latitude": 12.89872064,
+    "longitude": 77.64800365,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.0,
+    "bod": 5.0,
+    "cod": 56.0,
+    "tds": 460.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7172,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2828,
+      "High": 0.7172
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Sompura Lake",
+    "latitude": 12.87447508,
+    "longitude": 77.49860778,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.3,
+    "bod": 5.0,
+    "cod": 52.0,
+    "tds": 304.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5669,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5669,
+      "High": 0.4331
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Soulkere Lake",
+    "latitude": 12.872597,
+    "longitude": 77.398542,
+    "year": 2024,
+    "month": "June",
+    "ph": 8.5,
+    "bod": 5.0,
+    "cod": 64.0,
+    "tds": 704.0,
+    "total_coliform": 460.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9442,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0558,
+      "High": 0.9442
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Soulkere, Kaikondrahalli\r\nVill,Bengaluru",
+    "latitude": 12.955863,
+    "longitude": 77.568528,
+    "year": 2025,
+    "month": "May",
+    "ph": 7.2,
+    "bod": 25.0,
+    "cod": 155.0,
+    "tds": 440.0,
+    "total_coliform": 2200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8318,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1682,
+      "High": 0.8318
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Soulkere, Kaikondrahalli Vill,\r\nBengaluru",
+    "latitude": 12.802572,
+    "longitude": 77.518685,
+    "year": 2023,
+    "month": "December",
+    "ph": 6.6,
+    "bod": 14.0,
+    "cod": 120.0,
+    "tds": 556.0,
+    "total_coliform": 54000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8965,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1035,
+      "High": 0.8965
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Soulkere, Kaikondrahalli Vill, Bengaluru",
+    "latitude": 12.816512,
+    "longitude": 77.564889,
+    "year": 2024,
+    "month": "October",
+    "ph": 7.2,
+    "bod": 7.0,
+    "cod": 68.0,
+    "tds": 588.0,
+    "total_coliform": 170000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8825,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1175,
+      "High": 0.8825
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Soulkere, Kaikondrahalli Vill,Bengaluru",
+    "latitude": 12.91856038,
+    "longitude": 77.68025593,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.3,
+    "bod": 5.0,
+    "cod": 64.0,
+    "tds": 402.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6329,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3671,
+      "High": 0.6329
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Subramanyapura Tank",
+    "latitude": 12.89668663,
+    "longitude": 77.54331633,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.8,
+    "bod": 5.0,
+    "cod": 52.0,
+    "tds": 358.0,
+    "total_coliform": 7900.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.538,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.462,
+      "High": 0.538
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Tubarahalli Tank",
+    "latitude": 12.958187,
+    "longitude": 77.725785,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.1,
+    "bod": 28.0,
+    "cod": 180.0,
+    "tds": 702.0,
+    "total_coliform": 5400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9776,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0224,
+      "High": 0.9776
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Ullalu Lake",
+    "latitude": 12.9609124,
+    "longitude": 77.4804805,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 5.0,
+    "cod": 64.0,
+    "tds": 168.0,
+    "total_coliform": 46000.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.7755,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.7755,
+      "High": 0.2245
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Ulsoor Lake Near Kalyani, Bengaluru",
+    "latitude": 12.991994,
+    "longitude": 77.376942,
+    "year": 2024,
+    "month": "October",
+    "ph": 6.7,
+    "bod": 4.2,
+    "cod": 88.0,
+    "tds": 504.0,
+    "total_coliform": 170000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.811,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.189,
+      "High": 0.811
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Ulsoor Lake Near Kalyani,Bengaluru",
+    "latitude": 12.98288947,
+    "longitude": 77.62094479,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.5,
+    "bod": 8.0,
+    "cod": 96.0,
+    "tds": 292.0,
+    "total_coliform": 140.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5257,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5257,
+      "High": 0.4743
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Ulsoor Lake Temple",
+    "latitude": 12.9288,
+    "longitude": 77.5794,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.5,
+    "bod": 8.0,
+    "cod": 96.0,
+    "tds": 288.0,
+    "total_coliform": 1300.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5333,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5333,
+      "High": 0.4667
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Ulsoor Lake Training\r\nCentre Of Fish Breeding",
+    "latitude": 12.875026,
+    "longitude": 77.447791,
+    "year": 2023,
+    "month": "December",
+    "ph": 8.0,
+    "bod": 8.0,
+    "cod": 96.0,
+    "tds": 222.0,
+    "total_coliform": 54000.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6519,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6519,
+      "High": 0.3481
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Ulsoor Lake Training Centre Of Fish\r\nBreeding",
+    "latitude": 12.899589,
+    "longitude": 77.357996,
+    "year": 2025,
+    "month": "July",
+    "ph": 8.4,
+    "bod": 18.0,
+    "cod": 124.0,
+    "tds": 272.0,
+    "total_coliform": 13000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.508,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.492,
+      "High": 0.508
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Ulsoor Lake Training Centre Of Fish Breeding",
+    "latitude": 12.9825,
+    "longitude": 77.6191,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.5,
+    "bod": 8.0,
+    "cod": 88.0,
+    "tds": 296.0,
+    "total_coliform": 49.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.529,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.529,
+      "High": 0.471
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Uttarahalli Doraikere",
+    "latitude": 12.90305626,
+    "longitude": 77.55084832,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.6,
+    "bod": 8.0,
+    "cod": 96.0,
+    "tds": 278.0,
+    "total_coliform": 5400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5435,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5435,
+      "High": 0.4565
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Varanasi Lake",
+    "latitude": 13.026885,
+    "longitude": 77.68704005,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.7,
+    "bod": 5.0,
+    "cod": 52.0,
+    "tds": 306.0,
+    "total_coliform": 2100.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.565,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.565,
+      "High": 0.435
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Varthur Lake",
+    "latitude": 13.0287,
+    "longitude": 77.6685,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.3,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 462.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7069,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2931,
+      "High": 0.7069
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Veerapura Tank",
+    "latitude": 13.076912,
+    "longitude": 77.374806,
+    "year": 2025,
+    "month": "March",
+    "ph": 7.1,
+    "bod": 7.0,
+    "cod": 66.0,
+    "tds": 816.0,
+    "total_coliform": 17000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.977,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.023,
+      "High": 0.977
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Vengaiyya-Kere( Kr Puram Lake )",
+    "latitude": 12.901787,
+    "longitude": 77.577811,
+    "year": 2025,
+    "month": "February",
+    "ph": 6.8,
+    "bod": 12.0,
+    "cod": 132.0,
+    "tds": 852.0,
+    "total_coliform": 2200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9885,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0115,
+      "High": 0.9885
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Vengaiyyanakere",
+    "latitude": 13.095412,
+    "longitude": 77.359626,
+    "year": 2025,
+    "month": "May",
+    "ph": 7.1,
+    "bod": 32.0,
+    "cod": 212.0,
+    "tds": 786.0,
+    "total_coliform": 6300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9905,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0095,
+      "High": 0.9905
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Vengaiyyanakere ( Kr Puram Lake )",
+    "latitude": 12.930351,
+    "longitude": 77.460645,
+    "year": 2023,
+    "month": "December",
+    "ph": 6.9,
+    "bod": 13.0,
+    "cod": 115.0,
+    "tds": 1012.0,
+    "total_coliform": 160000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9963,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0037,
+      "High": 0.9963
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Vengaiyyanakere( Kr Puram Lake )",
+    "latitude": 13.01632597,
+    "longitude": 77.6999225,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.5,
+    "bod": 23.0,
+    "cod": 156.0,
+    "tds": 796.0,
+    "total_coliform": 1700.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9865,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0135,
+      "High": 0.9865
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Vibhuthipura Lake",
+    "latitude": 12.9683535,
+    "longitude": 77.67578051,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.4,
+    "bod": 16.0,
+    "cod": 112.0,
+    "tds": 348.0,
+    "total_coliform": 170.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6271,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3729,
+      "High": 0.6271
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Vijanapura Lake",
+    "latitude": 13.00925,
+    "longitude": 77.676796,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.1,
+    "bod": 5.0,
+    "cod": 52.0,
+    "tds": 484.0,
+    "total_coliform": 2200.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7519,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2481,
+      "High": 0.7519
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Vishwaneedam Dam Lake",
+    "latitude": 12.989077,
+    "longitude": 77.538208,
+    "year": 2023,
+    "month": "October",
+    "ph": 6.8,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 324.0,
+    "total_coliform": 16000.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5409,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5409,
+      "High": 0.4591
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Viswaneedam Lake",
+    "latitude": 12.98884671,
+    "longitude": 77.49016012,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 26.0,
+    "cod": 176.0,
+    "tds": 664.0,
+    "total_coliform": 5400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9688,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0312,
+      "High": 0.9688
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Vittasandra Lake, Vittasandra,",
+    "latitude": 12.85804363,
+    "longitude": 77.62274884,
+    "year": 2025,
+    "month": "November",
+    "ph": 8.0,
+    "bod": 4.0,
+    "cod": 44.0,
+    "tds": 420.0,
+    "total_coliform": 1400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6333,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3667,
+      "High": 0.6333
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Yallenahalli Lake",
+    "latitude": 12.926257,
+    "longitude": 77.521347,
+    "year": 2025,
+    "month": "April",
+    "ph": 8.5,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 288.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6103,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6103,
+      "High": 0.3897
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Yallenahalli Lake, Begur- Koppa Rd, Akshayanagara,",
+    "latitude": 12.8880334,
+    "longitude": 77.61625938,
+    "year": 2025,
+    "month": "November",
+    "ph": 6.9,
+    "bod": 6.0,
+    "cod": 64.0,
+    "tds": 254.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.6376,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.6376,
+      "High": 0.3624
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Yallenahalli Lake, Begur-Koppa Rd,\r\nAkshayanagara, Bengaluru",
+    "latitude": 13.156942,
+    "longitude": 77.37303,
+    "year": 2025,
+    "month": "July",
+    "ph": 7.9,
+    "bod": 7.0,
+    "cod": 72.0,
+    "tds": 542.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8419,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1581,
+      "High": 0.8419
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Yallenahalli Lake, Begur-Koppa Rd, Akshayanagara, Bengaluru",
+    "latitude": 12.890972,
+    "longitude": 77.385038,
+    "year": 2025,
+    "month": "October",
+    "ph": 7.5,
+    "bod": 5.0,
+    "cod": 53.0,
+    "tds": 362.0,
+    "total_coliform": 2100.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.5437,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.4563,
+      "High": 0.5437
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Yediyur Tank",
+    "latitude": 12.9575,
+    "longitude": 77.5645,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.2,
+    "bod": 4.0,
+    "cod": 48.0,
+    "tds": 192.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.7609,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.7609,
+      "High": 0.2391
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Yelache-Halli Lake",
+    "latitude": 12.914313,
+    "longitude": 77.408815,
+    "year": 2025,
+    "month": "February",
+    "ph": 8.0,
+    "bod": 4.0,
+    "cod": 24.0,
+    "tds": 328.0,
+    "total_coliform": 4300.0,
+    "ml_risk": "Medium",
+    "ml_confidence": 0.5659,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.5659,
+      "High": 0.4341
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Yelachenahalli Lake",
+    "latitude": 12.89926437,
+    "longitude": 77.56547215,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.4,
+    "bod": 6.0,
+    "cod": 72.0,
+    "tds": 382.0,
+    "total_coliform": 2800.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.6099,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.3901,
+      "High": 0.6099
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Yelahanka Lake",
+    "latitude": 13.09078569,
+    "longitude": 77.58580537,
+    "year": 2023,
+    "month": "September",
+    "ph": 7.3,
+    "bod": 5.0,
+    "cod": 56.0,
+    "tds": 514.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.7951,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.2049,
+      "High": 0.7951
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  },
+  {
+    "lake_name": "Yelahanka Tank",
+    "latitude": 13.0901,
+    "longitude": 77.5925,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 23.0,
+    "cod": 164.0,
+    "tds": 684.0,
+    "total_coliform": 11000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9703,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0297,
+      "High": 0.9703
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Yelamalappa Shety Lake",
+    "latitude": 13.028556,
+    "longitude": 77.575389,
+    "year": 2024,
+    "month": "May",
+    "ph": 6.5,
+    "bod": 78.0,
+    "cod": 356.0,
+    "tds": 256.0,
+    "total_coliform": 2400.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.8815,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.1185,
+      "High": 0.8815
+    },
+    "rule_based_risk": "Medium",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)"
+    ]
+  },
+  {
+    "lake_name": "Yelemallappa\r\nShetty Lake",
+    "latitude": 13.147599,
+    "longitude": 77.524712,
+    "year": 2023,
+    "month": "December",
+    "ph": 7.5,
+    "bod": 18.0,
+    "cod": 140.0,
+    "tds": 894.0,
+    "total_coliform": 16000.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9925,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0075,
+      "High": 0.9925
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids",
+      "Total Coliform (MPN/100)"
+    ]
+  },
+  {
+    "lake_name": "Yelemallappa Shetty Lake",
+    "latitude": 12.9714,
+    "longitude": 77.6953,
+    "year": 2025,
+    "month": "November",
+    "ph": 7.0,
+    "bod": 17.0,
+    "cod": 128.0,
+    "tds": 924.0,
+    "total_coliform": 3500.0,
+    "ml_risk": "High",
+    "ml_confidence": 0.9936,
+    "probabilities": {
+      "Low": 0.0,
+      "Medium": 0.0064,
+      "High": 0.9936
+    },
+    "rule_based_risk": "High",
+    "rule_based_violations": [
+      "BOD (mg/L)",
+      "COD (mg/L)",
+      "Total Dissolved Solids"
+    ]
+  }
+]
